@@ -1,6 +1,7 @@
 #Classe principal, vamos instanciar os objetos aqui
 
 #importando as classes que vamos utilizar diretamente
+print("aoooooooooba")
 from Compra import Compra
 from Pessoa import Pessoa
 from Produto import Produto
